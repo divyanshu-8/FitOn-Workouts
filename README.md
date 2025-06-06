@@ -26,13 +26,6 @@ This project is a React-based web application designed to help users find and le
     ```bash
     npm install
     ```
-### Prerequisites
-*   **Node.js and npm:** Ensure Node.js and npm are installed on your system. You can download them from the official Node.js website: [https://nodejs.org/](https://nodejs.org/)
-*   **RapidAPI Key:** This project uses the ExerciseDB and YouTube Search and Download APIs, both hosted on RapidAPI. You will need to obtain API keys from RapidAPI and store them in a `.env` file.
-    *   Create a `.env` file in the `src/` directory.
-    *   Add the following line to the `.env` file, replacing `<YOUR_RAPID_API_KEY>` with your actual RapidAPI key:
-                React_APP_RAPID_API_KEY = <YOUR_RAPID_API_KEY>
-        ```
         
 ### Running the Application
 1.  **Start the development server:**
